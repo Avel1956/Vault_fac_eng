@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "1ba58122bd17ffcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "05ededc16df90d60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0054da5c48558aad",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "PAUA_2326/Misiones facultad.canvas",
+                "viewState": {
+                  "x": 303.57263946822087,
+                  "y": 542.0113157123355,
+                  "zoom": -0.6666666666666667
+                }
+              }
+            }
+          },
+          {
+            "id": "55395ec990f83bf7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ed2cd77438c95c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/{{title}}.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "75e162a49ef98f1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PAUA_2326/M2/M2P3/Seguimiento M3P3/M2P3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2779436ed4bc8a0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c00f419df57442aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e50eb4f09cad4cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60047c8547b41b1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc12119dab085a56",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.5
+  },
+  "right": {
+    "id": "ef072f4f5318996c",
+    "type": "split",
+    "children": [
+      {
+        "id": "946b882628c8d284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43749e4111fc420d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templates/{{title}}.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a99dce46da82d88",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/{{title}}.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4d9117f694f219c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "119658ce31f6fb5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/{{title}}.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "5ed2cd77438c95c9",
+  "lastOpenFiles": [
+    "PAUA_2326/M2/M2P3/Seguimiento M3P3/M2P3.md",
+    "templates/{{title}}.md",
+    "templates",
+    "PAUA_2326/Misiones facultad.canvas",
+    "PAUA_2326/M2/M2P2/Seguimiento M3P2/M2P2.md",
+    "PAUA_2326/Planeacion_estrategica/source_docs/Plan de acción.md",
+    "PAUA_2326/M2/M2P1/M2P1.md",
+    "PAUA_2326/M3/M3P1/Seguimiento M3P1/M3P1.md",
+    "PAUA_2326/M3/M3P2/Seguimiento M3P2/M3P2.md",
+    "PAUA_2326/M3/M3P3/Seguimiento M3P3/M3P3.md",
+    "PAUA_2326/M1/M1P2/Seguimiento M3P2/M1P2.md",
+    "PAUA_2326/M1/M1P3/M1P3.md",
+    "PAUA_2326/M1/M1P1/Seguimiento M1P1/M1P1.md",
+    "PAUA_2326/M2/DOCS_inicio/Presentación PAUA Planeación.pdf",
+    "Observatorio.md",
+    "Defunction de mecanismos.md",
+    "PAUA_2326/Misiones.md",
+    "PAUA_2326/M2/M2.md",
+    "PAUA_2326/M3/M3.md",
+    "Excalidraw/Drawing 2023-10-03 07.26.44.excalidraw.md",
+    "PAUA_2326/M1/M1.md",
+    "assets/Pasted Image 20231003073045_099.png",
+    "assets/Pasted Image 20231003073000_062.png",
+    "assets/Pasted Image 20231003072715_004.png",
+    "Excalidraw",
+    "PAUA_2326/M3/DOCS_inicio/~$Presentación PAUA Planeación.pdf",
+    "assets/Pasted image 20231003071508.png",
+    "assets",
+    "assets/Pasted image 20231003071325.png",
+    "PAUA_2326/M1/DOCS_inicio/2. Plan de Acción Facultad de Ingeniería 2023_2026 Julio 25_1.xlsx",
+    "PAUA_2326/M1/Comité M3/Actas/Acta_de_Reunion_formato.docx",
+    "PAUA_2326/M1/M3P1/CA M3P1.xlsx",
+    "PAUA_2326/M1/DOCS_inicio/Propuestas de acción de la UPI para el ejercicio 2023.docx",
+    "PAUA_2326/M1/DOCS_inicio/Sistema de gestión-p01.pptx"
+  ]
+}
