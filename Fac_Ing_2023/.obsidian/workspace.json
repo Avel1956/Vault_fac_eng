@@ -15,35 +15,15 @@
               "state": {
                 "file": "PAUA_2326/Misiones facultad.canvas",
                 "viewState": {
-                  "x": 303.57263946822087,
-                  "y": 542.0113157123355,
-                  "zoom": -0.6666666666666667
+                  "x": 275.36767496095547,
+                  "y": 651.3107285389897,
+                  "zoom": 0.3333333333333332
                 }
               }
             }
           },
           {
-            "id": "55395ec990f83bf7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5ed2cd77438c95c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAUA_2326/M2/M2P3/Seguimiento M3P3/M2P3.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "75e162a49ef98f1c",
+            "id": "9805276580fc4831",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,9 +33,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f312e0d1fd277216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PAUA_2326/M2/M2P2/Seguimiento M3P2/M2P2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1c7aa966c254958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conversatorio entre Eduardo Vendrell Vidall y Andrés Klaus Runge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 332.5
   },
   "right": {
     "id": "ef072f4f5318996c",
@@ -121,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PAUA_2326/M2/M2P3/Seguimiento M3P3/M2P3.md",
+                "file": "Conversatorio entre Eduardo Vendrell Vidall y Andrés Klaus Runge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PAUA_2326/M2/M2P3/Seguimiento M3P3/M2P3.md",
+                "file": "Conversatorio entre Eduardo Vendrell Vidall y Andrés Klaus Runge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PAUA_2326/M2/M2P3/Seguimiento M3P3/M2P3.md"
+                "file": "Conversatorio entre Eduardo Vendrell Vidall y Andrés Klaus Runge.md"
               }
             }
           }
@@ -183,16 +187,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ed2cd77438c95c9",
+  "active": "a1c7aa966c254958",
   "lastOpenFiles": [
+    "[Andrés.md",
+    "Conversatorio entre Eduardo Vendrell Vidall y Andrés Klaus Runge.md",
+    "Reunion facultad 10312023.md",
+    "PAUA_2326/M2/M2P2/Seguimiento M3P2/M2P2.md",
+    "assets/Pasted image 20231031092640.png",
+    "PAUA_2326/M2/M2P3/Seguimiento M3P3/M2P3.md",
+    "PAUA_2326/Misiones facultad.canvas",
+    "PAUA_2326/M2/M2.md",
+    "Observatorio.md",
     "templates/{{title}}.md",
     "templates/{title}.md",
     "templates/Untitled.md",
     "templates",
-    "PAUA_2326/Misiones facultad.canvas",
-    "PAUA_2326/M2/M2P2/Seguimiento M3P2/M2P2.md",
     "PAUA_2326/Planeacion_estrategica/source_docs/Plan de acción.md",
-    "PAUA_2326/M2/M2P3/Seguimiento M3P3/M2P3.md",
     "PAUA_2326/M2/M2P1/M2P1.md",
     "PAUA_2326/M3/M3P1/Seguimiento M3P1/M3P1.md",
     "PAUA_2326/M3/M3P2/Seguimiento M3P2/M3P2.md",
@@ -201,10 +211,8 @@
     "PAUA_2326/M1/M1P3/M1P3.md",
     "PAUA_2326/M1/M1P1/Seguimiento M1P1/M1P1.md",
     "PAUA_2326/M2/DOCS_inicio/Presentación PAUA Planeación.pdf",
-    "Observatorio.md",
     "Defunction de mecanismos.md",
     "PAUA_2326/Misiones.md",
-    "PAUA_2326/M2/M2.md",
     "PAUA_2326/M3/M3.md",
     "Excalidraw/Drawing 2023-10-03 07.26.44.excalidraw.md",
     "PAUA_2326/M1/M1.md",
