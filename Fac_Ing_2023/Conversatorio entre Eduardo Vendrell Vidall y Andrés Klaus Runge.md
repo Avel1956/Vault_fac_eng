@@ -85,7 +85,7 @@ Andrés:
 El origen es mas ingeniería didáctica, se deriva del diseño instruccional que se ataca mucho.
 Skinner, Gañe, desarrollo basado en objetivo, taxonomía de bloom.
 
-Cada campo requiere su propia pedagogía?
+## Cada campo requiere su propia pedagogía?
 Andres: El problema no solo es el saber disciplinar si no que esta ligadas a preguntas pedagógicas (por que estudiar X?)
 Si hay especializaciones didácticas valiosas para campos particulares. La ingeniería didáctica no solo tiene pretensiones de enseñar, sino investigar. debe cuidarse de no fomentar la proliferación de modelos mentales.
 
@@ -93,19 +93,21 @@ Eduardo.
 ES evidente que hay diferencias en la didáctica entre disciplinas, incluso en la misma disciplina según las condiciones.
 SE debe hacer un buen diseño del camino de aprendizaje del estudiante.
 
-"Pedagogías adjetivadas"
+=="Pedagogías adjetivadas"== *Esta es el termino cargado en ámbitos de la educación cuándo se enfrenta a modelos no probados*
 
-La formacion pedagogia de un licenciado hace mucho enfasis en el aprendizaje, mientras que cuando se llega a la pedagogia sin estudios formales se piensa mas en pedagogía.
+La formación pedagogía de un licenciado hace mucho énfasis en el aprendizaje, mientras que cuando se llega a la pedagogía sin estudios formales se piensa mas en pedagogía.
+*Este es el origen de la incomodidad de los ingenieros con los cursos de educación. Reciben demasiada teoría en un momento en el que necesitan respuestas prácticas para su ejercicio cotidiano*
+
 
 Eduardo.
-Aprendizaje por delante de la docencia. El modelo docente se adpta  als necesidades de la educación. Aprendizaje y docencia a medida en tiempos modernos.
+Aprendizaje por delante de la docencia. El modelo docente se adapta a las necesidades de la educación. Aprendizaje y docencia a medida en tiempos modernos.
 Se puede ser un buen profesor sin que los estudiantes aprendan?
 
 Andrés
 Se puede plantear una didáctica universitaria?
 La adjetivación de la pedagogía puede o no ser deseable, pero si parece inevitable.
 
-Ingenieros como profesores universitarios.
+## Ingenieros como profesores universitarios.
 
 Eduardo
 Certificación internacional para formadores en ingeniería: 
@@ -114,17 +116,17 @@ Módulos comunes como pensamiento critico, trabajo en equipo, impacto de la inge
 La educación en educación para docentes de ingeniería es demasiado centrada en la teoría y poca practica.
 
 Andrés
-"La cachucha pedagógica" irónicamente
+=="La cachucha pedagógica"== irónicamente. *Los no iniciados en educación formal nos ponemos la cachucha*
 Doble titulación es lo que se debería hacer.
 Las facultades de educación no son centros de practicas, pero si es evidente y creciente la necesidad de mayor conceptualización, modelación y ejercicio de la pedagogía.
 
-Tecnología educativa
+## **Tecnología educativa**
 Modelo Instruccional.
 Andrés
 Critica a la algoritmización de la enseñanza, positivistas.
 Se puede modelar?
 Se puede ejecutar?
-LA educación n o funciona así, no es causalista.
+==LA educación n o funciona así, no es causalista.== *Desde la ingeniería no se debe abogar por causalismo absoluto en educación, esto no es posible*
 Desde la hermenéutica, las relaciones entre maestro-alumno no es necesariamente causal.
 Efectos perversos, como culpar a los maestros del bajo rendimiento de los estudiantes.
 Deficit tecnológico en la cual la educación no es tecnificable porque la lógica no es causal.
@@ -150,17 +152,17 @@ Se podría pensar en la incorporación de las nuevas tecnologías
 Que educaciones son posibles en el marco de un territorio que ha sido nombrado distrito especial de ciencia tecnología e innovación??
 
 Eduardo
-Hay una oportunidad excelente de generar escenarios de aprendizaje autentico.
+==Hay una oportunidad excelente de generar escenarios de aprendizaje autentico.
 Solucionar un problema basado en una experiencia ingenieril.
 Tenemos que formar a la gente en la solución de problemas del mundo real
-Acuerdo con actores de afuera para aportar medios
+Acuerdo con actores de afuera para aportar medios== *esto es la esencia de PIIC*
 
 Andrés
 Esa designación no quiere decir que nos volvamos silicon valley.
 La innovación no solo debe ser en contexto local sino mundial (crisis ecológica, por ejemplo).
 Mas allá de la fascinación inmediata con respecto al desarrollo tecnológico sino como ese desarrollo sirve a la solución de otras problemáticas
 
-
+Como usar las tecnologías para presentar asuntos situados
 
 
 
